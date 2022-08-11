@@ -3,7 +3,6 @@
 - 🔭 Estou trabalhando em desenvolvimento de conhecimentos  
 - 🌱 Atualmente estudo na CEULP/ULBRA em Palmas, Tocantins, Brazil
 - 📫 Como me contatar: ramonnogueira.contato@gmail.com
-- 😄 Pronomes: Ele / Dele
 
 <div align="center">
   <a href="https://github.com/Ramonn-prog">
