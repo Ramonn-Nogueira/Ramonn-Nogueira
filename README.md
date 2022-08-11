@@ -34,7 +34,7 @@
 </div>
 
  <div align="center">
-  <a href="https://wa.me/message/P7Z7N6E5PQRNO1" target="_blank"><img align="right" alt="gif" height="236" width="172" style="border-radius:80px;" src="tumblr_inline_nxeeqaPJK01sjhna2_250.gif">
+  <a href="https://wa.me/message/P7Z7N6E5PQRNO1" target="_blank"><img align="center" alt="gif" height="236" width="172" style="border-radius:80px;" src="tumblr_inline_nxeeqaPJK01sjhna2_250.gif">
 
 </div>
 
