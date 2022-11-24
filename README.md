@@ -1,5 +1,5 @@
 ## Olá! Me chamo Ramonn Nogueira
-<div>![Header](github-header-image.png)
+<div align="center"> <img align "center" alt="banner-ramonn" height="480" width="1200" src=""
 
 </div>
 - 🔭 Estou trabalhando em desenvolvimento de conhecimentos  
