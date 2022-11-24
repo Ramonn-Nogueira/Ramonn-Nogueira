@@ -1,10 +1,12 @@
 ## Olá! Me chamo Ramonn Nogueira
-<div align="center"> <img align "center" alt="banner-ramonn" height="200" width="636" src="github-header-image (3).png"
+<div align="center"> <img align "center" alt="banner-ramonn" height="200" width="636" src="github-header-image (3).png"</div>
 
-</div>
-- 🔭 Estou trabalhando em desenvolvimento de conhecimentos  
-- 🌱 Atualmente estudo na CEULP/ULBRA em Palmas, Tocantins, Brazil
-- 📫 Como me contatar: ramonnogueira.contato@gmail.com
+
+  <a align= "center">- 🔭 Estou trabalhando em desenvolvimento de conhecimentos</a>  
+  
+  <a align= "center">- 🌱 Atualmente estudo na CEULP/ULBRA em Palmas, Tocantins, Brazil</a>
+  
+  <a align= "center">- 📫 Como me contatar: ramonnogueira.contato@gmail.com</a>
 
 <div align="center">
   <a href="https://github.com/Ramonn-prog">
