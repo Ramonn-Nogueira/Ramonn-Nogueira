@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Ramonn
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/github-header-image%20(3)" alt="my banner">
+<img width="100%" src="github-header-image (3).png" alt="my banner">
 
 Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvolvimento de conhecimentos em áreas da ciência de dados e seus usos.
 
