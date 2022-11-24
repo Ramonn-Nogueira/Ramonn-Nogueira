@@ -4,7 +4,7 @@
 
 Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvolvimento de conhecimentos em áreas da ciência de dados e seus usos.
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning Python, Regex, NumPy and SciPy</p>
 <p>💬 Ask me about Uses of Data Science</p>
 
