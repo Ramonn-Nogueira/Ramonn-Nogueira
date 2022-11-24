@@ -34,9 +34,9 @@ Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvol
 ## 📊 Github Status
 
 <div align="center">
-  <a href="https://github.com/Ramonn-prog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramonn-prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonn-prog&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Ramonn-Nogueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramonn-Nogueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonn-Nogueira&layout=compact&langs_count=7&theme=dark"/>
   <img height"100%" src="https://github-readme-streak-stats.herokuapp.com?user=Ramonn-Nogueira&theme=dark&hide_border=true&locale=pt-br](https://git.io/streak-stats)"
 </div>
     <div><p><img src="https://metrics.lecoq.io/Ramonn-Nogueira"><p></div>
