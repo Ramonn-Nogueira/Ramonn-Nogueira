@@ -19,8 +19,8 @@ Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvol
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/S.%20Ramon%20Nogueira"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://medium.com/@S.%20Ramon%20Nogueira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-ramon-nogueira-0a16b2212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://medium.com/@https://medium.com/@savioramonnogueira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
