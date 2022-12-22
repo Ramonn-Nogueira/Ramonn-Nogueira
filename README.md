@@ -2,7 +2,7 @@
 
 <img width="100%" src="github-header-image (3).png" alt="my banner">
 
-Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvolvimento de conhecimentos em áreas da ciência de dados e seus usos.
+<p style="font-family:'Courier New'"><b><i>Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvolvimento de conhecimentos em áreas da ciência de dados e seus usos.</i></b></p>
 
 ## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning Python, Regex, NumPy and SciPy</p>
@@ -24,9 +24,9 @@ Acadêmico de Ciência da Computação, atualmente estou trabalhando no desenvol
 <a href="https://medium.com/@savioramonnogueira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
+<!--## 🌟 Github Badges
 <p>
-</p>
+</p>-->
 
 ## 🏆 GitHub Trophies
 
